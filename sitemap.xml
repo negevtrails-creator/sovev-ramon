@@ -3,6 +3,97 @@
 
   <url>
     <loc>https://sovevramon.co.il/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/index.html</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/segment-1.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/segment-2.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/segment-3.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/segment-4.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/segment-5.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/segment-6.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/segment-7.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/segment-8.html</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/recommended.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/geology.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/flora-fauna.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/human-desert.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/logistics.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/water-caches.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/shuttles.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/gear-transfer.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sovevramon.co.il/water-sources.html</loc>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
